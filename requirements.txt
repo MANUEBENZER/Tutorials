@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+Flask-marshmallow
+Flask-Migrate
+flask-praetorian
+Flask-RESTful
+Flask-SQLAlchemy
+flask-marshmallow-sqlalchemy
+pip install flask-restful marshmallow-sqlalchemy
